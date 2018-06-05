@@ -1,5 +1,3 @@
-#Git course
+#Git Teste
 
-Este é um repositório teste para mostrar como o Git funciona.
-
-Testando o comando diff.
+Este é um repositório para teste pessoal de um iniciante em programação.
